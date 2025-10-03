@@ -10,6 +10,14 @@ console.log(name);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+const number ='1926'
+console.log(number);
+
+const text = 'SSC Napoli'
+console.log(text);
+
+const bool = 'true'
+console.log(bool);
 
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe

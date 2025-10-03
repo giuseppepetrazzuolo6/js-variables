@@ -16,7 +16,7 @@ console.log(number);
 const text = 'SSC Napoli'
 console.log(text);
 
-const bool = 'true'
+const bool = true
 console.log(bool);
 
 
